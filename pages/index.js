@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Cristo é suficiente</h1>;
+    return <h1>Jesus is Lord</h1>;
 }
 
 export default Home;
